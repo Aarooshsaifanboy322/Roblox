@@ -8,3 +8,6 @@ Safe platform: _Yes_
 
 # Bugs and glitches
 **Roblox.app** _may_ not install in your computer. I am trying to fix this glitch. But, sometimes it gets installed.
+
+# Installation type
+_MacOS_
