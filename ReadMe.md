@@ -11,3 +11,6 @@ Safe platform: _Yes_
 
 # Installation type
 _MacOS_
+
+# Errors
+You may see an error when you open the website, it is like, a dangerous website or something. But, the installation actually works.
